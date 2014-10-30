@@ -16,7 +16,7 @@ Multilanguage allows you to create a multilingual WordPress website. Hence, you 
 
 NOTE: This plugin will only work with the themes and plugins, which were developed according to Wordpress Codex standards. Also, it uses standard filters (the_title, the_content, get_terms, get_the_terms, get_term, wp_get_nav_menu_items).
 
-http://www.youtube.com/watch?v=Si6ulEWuY1E
+http://www.youtube.com/watch?v=Si6ulEWuY1E 
 
 <a href="http://wordpress.org/plugins/multilanguage/faq/" target="_blank">FAQ</a>
 <a href="http://support.bestwebsoft.com" target="_blank">Support</a>
